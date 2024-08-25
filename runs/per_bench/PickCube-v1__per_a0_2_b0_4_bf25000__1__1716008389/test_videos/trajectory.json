@@ -1,0 +1,176 @@
+{
+  "env_info": {
+    "env_id": "PickCube-v1",
+    "env_kwargs": {
+      "num_envs": 2,
+      "obs_mode": "state",
+      "control_mode": "pd_joint_delta_pos",
+      "render_mode": "rgb_array",
+      "sim_backend": "gpu"
+    },
+    "max_episode_steps": 50
+  },
+  "commit_info": null,
+  "episodes": [
+    {
+      "episode_id": 0,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 1,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 2,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 3,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 4,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 5,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 6,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 7,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 8,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 9,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 10,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 11,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 12,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 13,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 14,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 15,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 16,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 17,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 18,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    },
+    {
+      "episode_id": 19,
+      "episode_seed": 1,
+      "control_mode": "pd_joint_delta_pos",
+      "elapsed_steps": 50,
+      "reset_kwargs": {},
+      "success": false
+    }
+  ]
+}
